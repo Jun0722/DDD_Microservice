@@ -10,13 +10,13 @@ namespace DDD.Domain.Interfaces
     {
         void Add(TEntity T);
 
-        TEntity GetById(int id);
+        TEntity GetById(Guid id);
 
         IQueryable<TEntity> GetAll();
 
         void Update(TEntity T);
 
-        void Remove(int id);
+        void Remove(Guid id);
 
         int SaveChanges();
     }

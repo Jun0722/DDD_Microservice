@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Linq;
 using DDD.Domain.Interfaces;
+using DDD.Insfrastructure.Data.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace DDD.Insfrastructure.Data.Repository
 {
@@ -9,39 +11,49 @@ namespace DDD.Insfrastructure.Data.Repository
     /// </summary>
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
+        protected readonly StudyContext _context;
+        protected readonly DbSet<TEntity> _dbSet;
+        public Repository(StudyContext context)
+        {
+            _context = context;
+            _dbSet = _context.Set<TEntity>();
+        }
+
+
         public void Add(TEntity T)
         {
-            throw new NotImplementedException();
+            _dbSet.Add(T);
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _context.Dispose();
+            GC.SuppressFinalize(this);
         }
 
         public IQueryable<TEntity> GetAll()
         {
-            throw new NotImplementedException();
+            return _dbSet;
         }
 
-        public TEntity GetById(int id)
+        public TEntity GetById(Guid id)
         {
-            throw new NotImplementedException();
+            return _dbSet.Find(id);
         }
 
-        public void Remove(int id)
+        public void Remove(Guid id)
         {
-            throw new NotImplementedException();
+            _dbSet.Remove(_dbSet.Find(id));
         }
 
         public int SaveChanges()
         {
-            throw new NotImplementedException();
+            return _context.SaveChanges();
         }
 
         public void Update(TEntity T)
         {
-            throw new NotImplementedException();
+            _dbSet.Update(T);
         }
     }
 }
