@@ -687,17 +687,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/DDD.Domain.Core.csproj",
+      "projectUniqueName": "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain.Core/DDD.Domain.Core.csproj",
       "projectName": "DDD.Domain.Core",
-      "projectPath": "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/DDD.Domain.Core.csproj",
+      "projectPath": "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain.Core/DDD.Domain.Core.csproj",
       "packagesPath": "/Users/xuanwang/.nuget/packages/",
-      "outputPath": "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/obj",
+      "outputPath": "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain.Core/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/xuanwang/.config/NuGet/NuGet.Config"
+        "/Users/xuanwang/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -722,7 +722,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.0",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },

@@ -1,32 +1,47 @@
 ﻿using System;
 using DDD.Domain.Core.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DDD.Domain.Models
 {
     /// <summary>
     /// 地址
     /// </summary>
-    public class Address:ValueObject<Address>
+    [Owned]
+    public class Address : ValueObject<Address>
     {
-        //省份
+        /// <summary>
+        /// 省份
+        /// </summary>
         public string Province { get; private set; }
 
-        //城市
+        /// <summary>
+        /// 城市
+        /// </summary>
         public string City { get; private set; }
 
-        //区县
+        /// <summary>
+        /// 区县
+        /// </summary>
         public string County { get; private set; }
 
-        //街道
+        /// <summary>
+        /// 街道
+        /// </summary>
         public string Street { get; private set; }
 
-        public Address(string province, string city, string county, string street, string zip)
+
+        public Address() { }
+        public Address(string province, string city,
+            string county, string street, string zip)
         {
             this.Province = province;
             this.City = city;
             this.County = county;
             this.Street = street;
         }
+
+
 
         protected override bool EqualsCore(Address other)
         {

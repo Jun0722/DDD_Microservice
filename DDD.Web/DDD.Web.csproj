@@ -8,4 +8,12 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="Views\Student\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DDD.Application\DDD.Application.csproj" />
+    <ProjectReference Include="..\DDD.insfrastructure.IoC\DDD.insfrastructure.IoC.csproj" />
+  </ItemGroup>
 </Project>

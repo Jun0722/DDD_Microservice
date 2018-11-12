@@ -22,7 +22,7 @@ namespace DDD.Application.ViewModels
 
         [Required(ErrorMessage = "The BirthDate is Required")]
         [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:yyyy-MM-dd}")]
-        [DataType(DataType.Date, ErrorMessage = "Data em formato inválido")]
+        [DataType(DataType.Date, ErrorMessage = "Date in invalid format")]
         [DisplayName("Birth Date")]
         public DateTime BirthDate { get; set; }
     }

@@ -900,7 +900,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
-          "DDD.Domain.Core": "1.0.0"
+          "DDD.Domain.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.1.4"
         },
         "compile": {
           "bin/placeholder/DDD.Domain.dll": {}
@@ -3355,17 +3356,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Insfrastructure.Data/DDD.Insfrastructure.Data.csproj",
+      "projectUniqueName": "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/DDD.Insfrastructure.Data.csproj",
       "projectName": "DDD.Insfrastructure.Data",
-      "projectPath": "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Insfrastructure.Data/DDD.Insfrastructure.Data.csproj",
+      "projectPath": "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/DDD.Insfrastructure.Data.csproj",
       "packagesPath": "/Users/xuanwang/.nuget/packages/",
-      "outputPath": "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Insfrastructure.Data/obj",
+      "outputPath": "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/xuanwang/.config/NuGet/NuGet.Config"
+        "/Users/xuanwang/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -3376,8 +3377,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain/DDD.Domain.csproj": {
-              "projectPath": "/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain/DDD.Domain.csproj"
+            "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/DDD.Domain.csproj": {
+              "projectPath": "/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/DDD.Domain.csproj"
             }
           }
         }
@@ -3391,27 +3392,27 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "[2.1.4, )"
+          },
+          "Microsoft.Extensions.Configuration.FileExtensions": {
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
+          "Microsoft.Extensions.Configuration.Json": {
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.0",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           },
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
-            "version": "2.1.2"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "target": "Package",
-            "version": "2.1.4"
-          },
-          "Microsoft.Extensions.Configuration.FileExtensions": {
-            "target": "Package",
-            "version": "2.1.1"
-          },
-          "Microsoft.Extensions.Configuration.Json": {
-            "target": "Package",
-            "version": "2.1.1"
+            "version": "[2.1.2, )"
           }
         },
         "imports": [

@@ -17,3 +17,17 @@
 /Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.AssemblyInfo.cs
 /Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.dll
 /Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.deps.json
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.runtimeconfig.json
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.runtimeconfig.dev.json
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.dll
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Domain.Core.dll
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Domain.dll
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Domain.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/bin/Debug/netcoreapp2.1/DDD.Domain.Core.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.csproj.CoreCompileInputs.cache
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.AssemblyInfoInputs.cache
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.AssemblyInfo.cs
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.dll
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.pdb

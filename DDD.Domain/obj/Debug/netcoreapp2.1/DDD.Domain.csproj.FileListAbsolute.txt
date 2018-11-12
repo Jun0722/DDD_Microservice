@@ -18,3 +18,13 @@
 /Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.AssemblyInfo.cs
 /Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.dll
 /Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/bin/Debug/netcoreapp2.1/DDD.Domain.deps.json
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/bin/Debug/netcoreapp2.1/DDD.Domain.dll
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/bin/Debug/netcoreapp2.1/DDD.Domain.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/bin/Debug/netcoreapp2.1/DDD.Domain.Core.dll
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/bin/Debug/netcoreapp2.1/DDD.Domain.Core.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.csproj.CoreCompileInputs.cache
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.AssemblyInfoInputs.cache
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.AssemblyInfo.cs
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.dll
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.pdb

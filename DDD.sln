@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Application", "DDD.Appl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Domain.Core", "DDD.Domain.Core\DDD.Domain.Core.csproj", "{C1BF4A71-C285-422F-AED8-1D1EF34FFC22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.insfrastructure.IoC", "DDD.insfrastructure.IoC\DDD.insfrastructure.IoC.csproj", "{AEB70D5F-C679-436D-A5EF-EBBBBBB1A15C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,5 +39,9 @@ Global
 		{C1BF4A71-C285-422F-AED8-1D1EF34FFC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1BF4A71-C285-422F-AED8-1D1EF34FFC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1BF4A71-C285-422F-AED8-1D1EF34FFC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB70D5F-C679-436D-A5EF-EBBBBBB1A15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB70D5F-C679-436D-A5EF-EBBBBBB1A15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB70D5F-C679-436D-A5EF-EBBBBBB1A15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB70D5F-C679-436D-A5EF-EBBBBBB1A15C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

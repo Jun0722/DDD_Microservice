@@ -32,7 +32,15 @@ namespace DDD.Application.Services
 
         public IEnumerable<StudentViewModel> GetAll()
         {
-            return (_studentRepository.GetAll()).ProjectTo<StudentViewModel>();
+
+            //第一种写法 Map
+            return _mapper.Map<IEnumerable<StudentViewModel>>(_studentRepository.GetAll());
+
+            //第二种写法 ProjectTo
+            //return (_StudentRepository.GetAll()).ProjectTo<StudentViewModel>(_mapper.ConfigurationProvider);
+
+
+            //return (_studentRepository.GetAll()).ProjectTo<StudentViewModel>();
         }
 
         public StudentViewModel GetById(Guid id)
