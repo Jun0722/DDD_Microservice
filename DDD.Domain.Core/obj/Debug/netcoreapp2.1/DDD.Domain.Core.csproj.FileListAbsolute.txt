@@ -1,0 +1,9 @@
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/bin/Debug/netcoreapp2.1/DDD.Domain.Core.deps.json
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/bin/Debug/netcoreapp2.1/DDD.Domain.Core.dll
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/bin/Debug/netcoreapp2.1/DDD.Domain.Core.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.csprojResolveAssemblyReference.cache
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.AssemblyInfoInputs.cache
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.AssemblyInfo.cs
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.dll
+/Users/xuanwang/Desktop/DDD_Microservice/src/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.pdb
