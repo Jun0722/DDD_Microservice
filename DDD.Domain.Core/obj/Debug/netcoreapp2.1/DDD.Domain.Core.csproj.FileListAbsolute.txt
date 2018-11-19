@@ -15,3 +15,4 @@
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.AssemblyInfo.cs
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.dll
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain.Core/obj/Debug/netcoreapp2.1/DDD.Domain.Core.csprojAssemblyReference.cache

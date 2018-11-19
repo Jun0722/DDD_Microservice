@@ -28,3 +28,5 @@
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.AssemblyInfo.cs
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.dll
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.csprojAssemblyReference.cache
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Domain/obj/Debug/netcoreapp2.1/DDD.Domain.csproj.CopyComplete

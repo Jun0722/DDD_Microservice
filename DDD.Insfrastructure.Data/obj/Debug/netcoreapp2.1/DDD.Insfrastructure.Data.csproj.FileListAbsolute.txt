@@ -31,3 +31,5 @@
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.AssemblyInfo.cs
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.dll
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.csprojAssemblyReference.cache
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Insfrastructure.Data/obj/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.csproj.CopyComplete

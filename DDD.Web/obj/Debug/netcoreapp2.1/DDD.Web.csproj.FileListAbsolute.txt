@@ -79,7 +79,6 @@
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/bin/Debug/netcoreapp2.1/DDD.Domain.pdb
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/bin/Debug/netcoreapp2.1/DDD.Domain.Core.pdb
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/bin/Debug/netcoreapp2.1/DDD.Insfrastructure.Data.pdb
-/Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/DDD.Web.csprojResolveAssemblyReference.cache
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/DDD.Web.csproj.CoreCompileInputs.cache
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/DDD.Web.RazorAssemblyInfo.cache
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/DDD.Web.RazorAssemblyInfo.cs
@@ -109,3 +108,4 @@
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/Razor/Views/Student/Delete.g.cshtml.cs
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/Razor/Views/Student/Details.g.cshtml.cs
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/Razor/Views/Student/Edit.g.cshtml.cs
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Web/obj/Debug/netcoreapp2.1/DDD.Web.csprojAssemblyReference.cache

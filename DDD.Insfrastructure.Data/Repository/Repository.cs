@@ -23,6 +23,8 @@ namespace DDD.Insfrastructure.Data.Repository
         public void Add(TEntity T)
         {
             _dbSet.Add(T);
+            _context.SaveChanges();
+
         }
 
         public void Dispose()
@@ -44,6 +46,7 @@ namespace DDD.Insfrastructure.Data.Repository
         public void Remove(Guid id)
         {
             _dbSet.Remove(_dbSet.Find(id));
+            _context.SaveChanges();
         }
 
         public int SaveChanges()
@@ -54,6 +57,7 @@ namespace DDD.Insfrastructure.Data.Repository
         public void Update(TEntity T)
         {
             _dbSet.Update(T);
+            _context.SaveChanges();
         }
     }
 }

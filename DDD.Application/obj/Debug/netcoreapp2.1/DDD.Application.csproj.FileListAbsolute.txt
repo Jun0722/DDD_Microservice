@@ -29,9 +29,10 @@
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/bin/Debug/netcoreapp2.1/DDD.Domain.dll
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/bin/Debug/netcoreapp2.1/DDD.Domain.pdb
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/bin/Debug/netcoreapp2.1/DDD.Domain.Core.pdb
-/Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.csprojResolveAssemblyReference.cache
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.csproj.CoreCompileInputs.cache
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.AssemblyInfoInputs.cache
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.AssemblyInfo.cs
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.dll
 /Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.pdb
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.csprojAssemblyReference.cache
+/Users/xuanwang/Desktop/DDD_Microservice/DDD.Application/obj/Debug/netcoreapp2.1/DDD.Application.csproj.CopyComplete

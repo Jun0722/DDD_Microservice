@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DDD.Application.Interfaces;
+using DDD.Application.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -37,15 +38,24 @@ namespace DDD.Web.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(StudentViewModel studentViewModel)
         {
             try
             {
+                if (!ModelState.IsValid)
+                    return View(studentViewModel);
+                Guid guid = Guid.NewGuid();
+                studentViewModel.Id = guid;
+
+                _studentAppService.Register(studentViewModel);
+
+                ViewBag.Sucesso = "Student Registered!";
+
                 return RedirectToAction(nameof(Index));
             }
-            catch
+            catch(Exception e)
             {
-                return View();
+                return View(e.Message);
             }
         }
 
